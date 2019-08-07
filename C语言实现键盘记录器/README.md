@@ -9,17 +9,17 @@
 
 参考课程：[C/C++黑客技术：键盘记录器……](https://www.bilibili.com/video/av56195928?from=search&seid=8623392146810887085)
 
-项目源码参考：
+项目源码参考：[C语言实现键盘记录器-源码](https://github.com/zz2summer/C-CPP-Programs/tree/master/C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E9%94%AE%E7%9B%98%E8%AE%B0%E5%BD%95%E5%99%A8)
 
 ***
 
 一、编写Crack.dll钩子，记录键盘操作
 
-&emsp;&emsp;源码参考：[Crack]()
+&emsp;&emsp;源码参考：[Crack](https://github.com/zz2summer/C-CPP-Programs/tree/master/C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E9%94%AE%E7%9B%98%E8%AE%B0%E5%BD%95%E5%99%A8/Crack)
 
 二、编写使用程序 CrackPassword
 
-&emsp;&emsp;源码参考：[CrackPassword]()
+&emsp;&emsp;源码参考：[CrackPassword](https://github.com/zz2summer/C-CPP-Programs/tree/master/C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E9%94%AE%E7%9B%98%E8%AE%B0%E5%BD%95%E5%99%A8/CrackPassword)
 
 三、使用说明
 
